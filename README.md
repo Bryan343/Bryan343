@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Bryan343
 - 👀 I’m interested in history, music, developing and basically, learn everything I can.
-- 🌱 I’m currently learning web development in The Odin Project
-- 📫 How to reach me: bryanlml343@gmail.com
-
+- 🌱 I’m currently learning basic web development and after that I want to learn backend development.
+- 📫 How to reach me: bcarreno1602@gmail.com
